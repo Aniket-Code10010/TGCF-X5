@@ -6,7 +6,6 @@ forwards:
 
 plugins:
   filter:
-   replace:
     text:
       "RUN BANAKAR OUT": Run Banakar Out
       "CATCH OUT✔️✔️": 🚾 CATCH OUT 🚾
